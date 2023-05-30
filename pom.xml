@@ -48,7 +48,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>
-								src\test\resources\hello_testng_suite.xml
+								/Automation_Demo/testng.xml
 							</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
