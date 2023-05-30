@@ -35,8 +35,8 @@
 
 	</dependencies>
 	<properties>
-		<maven.compiler.source>1.6</maven.compiler.source>
-		<maven.compiler.target>1.6</maven.compiler.target>
+		<maven.compiler.source>1.8</maven.compiler.source>
+		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
 	<build>
 		<pluginManagement>
@@ -48,7 +48,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>
-								C:\Users\a837350\eclipse-workspace\Automation_Demo\testng.xml
+								C:/Users/a837350/eclipse-workspace/Automation_Demo/testng.xml
 							</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
