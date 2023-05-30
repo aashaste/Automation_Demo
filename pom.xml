@@ -48,7 +48,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>
-								/Automation_Demo/testng.xml
+								C:\Users\a837350\eclipse-workspace\Automation_Demo\testng.xml
 							</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
